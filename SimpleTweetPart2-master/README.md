@@ -2,7 +2,7 @@
 
 **Name of your app** is an android app that allows a user to view his Twitter timeline and post a new tweet. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total
 
 ## User Stories
 
@@ -34,8 +34,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![SimpleTweet](https://user-images.githubusercontent.com/83977892/159209190-79b35665-6b31-4d1f-86d0-4466514466af.gif)
-
+![SimpleTweet](https://user-images.githubusercontent.com/97994935/159210810-c8391656-7e0a-47f2-b005-312bccfd2b4e.gif)
 
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
